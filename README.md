@@ -83,6 +83,7 @@ Po aktywacji nowego środowiska zamiast *base* powinno być widoczne *ml* w nasz
 **Proszę pamiętać aby zawsze aktywować to środowisko po wznowieniu pracy na komputerze!**\
 Proszę wywołać poniższe linijki aby aktywować kilka dodatkowych ustawień:
 ```bash
+pip install svgling==0.3.1
 python -m ipykernel install --user --name ml_nlp --display-name "Python (ml_nlp)"
 ```
 ## Rozpoczęcie (oraz wznowienie pracy)
