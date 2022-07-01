@@ -5,7 +5,7 @@ Link do repozytorium: https://github.com/NXTRSS/NLPCourse
 Poniżej przedstawiam instrukcję niezbędnych kroków do wykonania przed zajęciami
 
 ## Praca z VirtualEnv
-Osobiście polecam skorzystać z Anacondy (instrukcja poniżej) jednak jeśli ktoś chce wykorzystywać venv oraz pip poniej podaję komendy:
+Osobiście polecam skorzystać z Anacondy (instrukcja poniżej) jednak jeśli ktoś chce wykorzystywać venv oraz pip poniżej podaję komendy:
 ```bash
 pip install virtualenv
 
