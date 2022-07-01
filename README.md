@@ -88,7 +88,7 @@ python -m ipykernel install --user --name ml_nlp --display-name "Python (ml_nlp)
 ## Rozpoczęcie (oraz wznowienie pracy)
 Przy każdym wznowieniu pracy (ponownym odpaleniu komputera i maszyny wirtualnej) proszę wejście do odpowiedniego folderu:
 ```bash
-cd SDA/ml_nlp/MachineLearningBasic
+cd SDA/ml_nlp/NLPCourse
 ```
  zaktywować środowisko o nazwie *ml*:
 ```bash
