@@ -10,4 +10,5 @@ textblob
 #stanfordcorenlp
 matplotlib
 gensim
+pandas
 svgling #pip

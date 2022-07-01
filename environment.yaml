@@ -14,4 +14,5 @@ dependencies:
   - ipywidgets=7.6.5
   - matplotlib=3.5.1
   - gensim=4.1.2
+  - pandas=1.4.2
 
