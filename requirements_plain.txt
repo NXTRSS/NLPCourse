@@ -11,4 +11,5 @@ textblob
 matplotlib
 gensim
 pandas
+keras
 svgling #pip
